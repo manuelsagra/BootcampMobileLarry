@@ -1,4 +1,4 @@
-# Larry Plotter
+# Larry Plotter (Índice de libros)
 
 * Larry Plotter y El Bucle Filosofal
 * Larry Plotter y La Clave Secreta del Wi-Fi
