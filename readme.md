@@ -2,4 +2,4 @@
 
 Esta apasionante serie de libros cuentan la historia de un hacker único.
 
-**Manuel Sagra de Diego**
+**Manuel Sagra de Diego**, Larry Plotter fan
